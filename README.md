@@ -1,4 +1,3 @@
-# AT-LEAST-WERE-HONEST
 
 I. INITIAL ANALYSIS
 Wallet Type: Ethereum (ERC-20 compatible)
